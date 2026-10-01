@@ -55,7 +55,7 @@ Analyze employee data to find the main reasons behind attrition (employees leavi
 3. The KPI cards, insights, and three of the four charts update for that department.
 
 ## Dashboard Preview
-![Dashboard](dashboard(1).png)
+![Dashboard](dashboard (1).png)
 
 ## Possible Improvements
 - Add a PivotTable with slicers
